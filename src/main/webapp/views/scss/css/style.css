@@ -1,0 +1,23 @@
+/*Css của home user*/
+
+.icon-hover:hover {
+    border-color: #3b71ca !important;
+    background-color: white !important;
+}
+
+.icon-hover:hover i {
+    color: #3b71ca !important;
+}
+
+/*Css của page*/
+.page{
+    display: flex;
+    justify-content: center;
+}
+.cate-lst>ul>li:hover{
+    background-color: #efffcf;
+}
+.list-group-item.active {
+    background-color: #efffcf !important;
+}
+
